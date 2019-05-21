@@ -15,9 +15,9 @@ public class CardTrick {
     
     public static void main(String[] args)
     {
-        Card[] magicHand = new Card[7];
+        Card[] luckyHand = new Card[7];
         
-        for (int i=0; i<magicHand.length; i++)
+        for (int i=0; i<luckyHand.length; i++)
         {
             Card c = new Card();
             //c.setValue(insert call to random number generator here)
@@ -25,7 +25,7 @@ public class CardTrick {
         }
         
         //insert code to ask the user for Card value and suit, create their card
-        // and search magicHand here
+        // and search luckyHand here
         //Then report the result here
     }
     
